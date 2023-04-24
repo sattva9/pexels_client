@@ -7,6 +7,8 @@ description = "Rust wrapper for Pexels API"
 license = "MIT"
 repository = "https://github.com/sattva9/pexels_client"
 keywords = ["pexels_client", "pexels"]
+readme = "README.md"
+documentation = "https://docs.rs/pexels_client"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
