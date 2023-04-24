@@ -1,6 +1,6 @@
 [package]
 name = "pexels_client"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Pranitha Madapathi <pranitha.madapathi@gmail.com>"]
 description = "Rust wrapper for Pexels API"
